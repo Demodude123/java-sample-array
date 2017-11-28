@@ -8,7 +8,7 @@ public class Array {
 	        int userInputInt = 0;
 	        
 	        //Get how many secrets they have. Includes a try and catch for invalid values.
-	        System.out.println("Tell me all your little secrets.\nHow many secrets do you have?");
+	        System.out.println("Tell me all your secrets.\nHow many secrets do you have?");
 	        Scanner scanInput = new Scanner(System.in);
 	        userInputString= scanInput.nextLine(); 
 	        
